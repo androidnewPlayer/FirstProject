@@ -1,0 +1,3 @@
+git add something
+
+git add all successful
